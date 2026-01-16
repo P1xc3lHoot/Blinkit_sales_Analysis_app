@@ -1,2 +1,5 @@
 # Blinkit_sales_Analysis_app
 A Last minute  sales analysis app of Blinkit India
+This Power BI dashboard provides an in-depth sales analysis for Blinkit—India’s leading last-minute grocery delivery app, focusing on key business dimensions such as total and average sales, product categories, outlet sizes, outlet establishment trends, and customer ratings. The dashboard is designed to transform raw transactional data into meaningful insights by highlighting sales distribution across item types, consumer preferences based on fat content, and performance variations across different outlet tiers and sizes.
+
+With the help of interactive visuals, KPI indicators, and dynamic slicers, stakeholders can explore data at multiple levels, track performance trends over time, and identify high-performing products and outlets. The analysis supports strategic decision-making by offering clear visibility into customer behavior, outlet expansion patterns, and category-level performance, enabling Blinkit to optimize inventory planning, outlet strategy, and overall business growth.
